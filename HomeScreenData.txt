@@ -1,0 +1,253 @@
+{
+  "requestStatus": {
+    "status": "OK",
+    "responseCode": 200,
+    "title": "SUCCESS",
+    "message": "Get home details successfully"
+  },
+  "userBasicInfo": {
+    "userId": 602,
+    "matchingTimeRangeActiveForBot": "-35,-30",
+    "socialLoginId": 0,
+    "name": "Guest3223",
+    "nickName": "GUEST1664",
+    "countryCode": "0",
+    "phoneNumber": "",
+    "referralCode": "",
+    "referrerId": "0",
+    "imageId": "22",
+    "coin": "240720",
+    "diamond": "10",
+    "accountStatus": "ACTIVE",
+    "userStatus": "ACTIVE",
+    "loginType": "GUEST",
+    "countryName": "Argentina",
+    "state": "Buenos Aires",
+    "city": " ",
+    "accessToken": "0G88FXM",
+    "totalFollowersCount": 3,
+    "totalFollowingCount": 1,
+    "referMsg": "",
+    "share": "I am playing Ludo Badshah! This game is awesome! You should try it! Install:\r\n\r\nAndroid:\r\nhttps://play.google.com/store/apps/details?id=com.ludo.badshah",
+    "shareMatch": "I want to play Ludo Badshah with you! Please install from\r\n\r\nAndroid:\r\nhttps://play.google.com/store/apps/details?id=com.ludo.badshah\r\nStart game and go to Private Online Multiplayer mode and enter Room code \"<room_code>\" Believe me this is awesome game!",
+    "fbFeedTo": "",
+    "fbFeedLink": "http://ludobadshah.in/ludoBadshah/facebook_share.php?share_id=872cf3f71053d200b2eb59acd0e68d87",
+    "fbFeedTitle": "",
+    "fbFeedCaption": "",
+    "fbFeedDescription": "",
+    "fbFeedImage": "",
+    "fbFeedMediaSource": "",
+    "email": "",
+    "isPhoneNumberVerified": "UN_VERIFIED",
+    "isEmailVerified": "UN_VERIFIED",
+    "userType": "GUEST_USER",
+    "currentLevel": "3",
+    "maxLevel": "100",
+    "botIntelligencyType": "NORMAL",
+    "isAdFreeUser": false,
+    "isTextChatBane": "0",
+    "isGameLogEnable": "0"
+  },
+  "matches": {
+    "normalGame": {
+      "totalmatches": "3",
+      "totalWonmatches": "0",
+      "totalLosematches": "6"
+    },
+    "nlGameWon": {
+      "totalmatches": "8",
+      "totalWonmatches": "0",
+      "totalLosematches": "0"
+    },
+    "privateGameWon": {
+      "totalmatches": "34",
+      "totalWonmatches": "2",
+      "totalLosematches": "32"
+    },
+    "totalmatches": 55,
+    "totalWonmatches": 9,
+    "totalLosematches": 49
+  },
+  "spinRewards": {
+    "rewards": [
+      100,
+      350,
+      1200,
+      600,
+      1000,
+      750,
+      400,
+      150
+    ],
+    "rewardCoin": 200,
+    "previousReward": "",
+    "rewardInterval": 240
+  },
+  "dailyRewards": {
+    "id": 3,
+    "nextReward": "2020-07-10",
+    "isRewardAvaliable": true,
+    "rewards": [
+      {
+        "id": 1,
+        "day": "Day 1",
+        "coin": 200,
+        "message": "+200"
+      },
+      {
+        "id": 2,
+        "day": "Day 2",
+        "coin": 300,
+        "message": "+300"
+      },
+      {
+        "id": 3,
+        "day": "Day 3",
+        "coin": 400,
+        "message": "+400"
+      },
+      {
+        "id": 4,
+        "day": "Day 4",
+        "coin": 500,
+        "message": "+500"
+      },
+      {
+        "id": 5,
+        "day": "Day 5",
+        "coin": 600,
+        "message": "+600"
+      },
+      {
+        "id": 6,
+        "day": "Day 6",
+        "coin": 800,
+        "message": "+800"
+      },
+      {
+        "id": 7,
+        "day": "Day 7",
+        "coin": 1000,
+        "message": "+1000"
+      }
+    ]
+  },
+  "adsHomeRewards": {
+    "rewardCoin": 500,
+    "currentCount": "0",
+    "count": 1
+  },
+  "giftRewards": {
+    "rewardCoin": 200,
+    "previousReward": "2020-07-03 12:25:19 +00:00",
+    "rewardInterval": 240,
+    "message": "You have won 200 coin"
+  },
+  "adData": null,
+  "tournamentType": [
+    {
+      "tournamentName": "PLAY_NOW",
+      "tableConditions": [
+        {
+          "maxBlind": 4,
+          "maxChal": 25600,
+          "maxBlindChal": 12800,
+          "bootAmount": 200,
+          "MaxPot": 409600,
+          "allowIncrement": 1
+        },
+        {
+          "maxBlind": 4,
+          "maxChal": 44800,
+          "maxBlindChal": 22400,
+          "bootAmount": 350,
+          "MaxPot": 716800,
+          "allowIncrement": 1
+        },
+        {
+          "maxBlind": 4,
+          "maxChal": 64000,
+          "maxBlindChal": 32000,
+          "bootAmount": 500,
+          "MaxPot": 1024000,
+          "allowIncrement": 1
+        }
+      ]
+    },
+    {
+      "tournamentName": "NO_LIMIT",
+      "tableList": [
+        {
+          "maxBlind": 5000,
+          "maxChal": 100000000000000,
+          "maxBlindChal": 100000000000000,
+          "bootAmount": 500,
+          "MaxPot": 2048000000000,
+          "allowIncrement": 100000
+        }
+      ]
+    },
+    {
+      "tournamentName": "VARIATION",
+      "tableList": []
+    },
+    {
+      "tournamentName": "CHANGE_PATTI",
+      "tableList": []
+    },
+    {
+      "tournamentName": "PRIVATE_TABLE",
+      "tableList": [
+        {
+          "maxBlind": 4,
+          "maxChal": 12800,
+          "maxBlindChal": 6400,
+          "bootAmount": 100,
+          "MaxPot": 204800,
+          "allowIncrement": 1
+        },
+        {
+          "maxBlind": 4,
+          "maxChal": 25600,
+          "maxBlindChal": 12800,
+          "bootAmount": 200,
+          "MaxPot": 409600,
+          "allowIncrement": 1
+        },
+        {
+          "maxBlind": 4,
+          "maxChal": 38400,
+          "maxBlindChal": 19200,
+          "bootAmount": 300,
+          "MaxPot": 614400,
+          "allowIncrement": 1
+        },
+        {
+          "maxBlind": 4,
+          "maxChal": 51200,
+          "maxBlindChal": 25600,
+          "bootAmount": 400,
+          "MaxPot": 819200,
+          "allowIncrement": 1
+        },
+        {
+          "maxBlind": 4,
+          "maxChal": 64000,
+          "maxBlindChal": 32000,
+          "bootAmount": 500,
+          "MaxPot": 1024000,
+          "allowIncrement": 1
+        }
+      ]
+    }
+  ],
+  "appUpdateData": {
+    "currentAppVersionIos": "0",
+    "currentAppVersionAndroid": "1.3",
+    "isForceUpdate": false,
+    "title": "New Update Download",
+    "message": "Install update to use latest Ludo Badshah features!"
+  },
+  "serverTime": "2020-07-09 12:29:10 +00:00",
+  "matchingType": "ONLINEMATCHING"
+}
